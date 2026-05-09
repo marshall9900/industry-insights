@@ -1,0 +1,189 @@
+{
+  "downloaded": {
+    "9e40901179160bfadbf2cec515bc6bb0": {
+      "title": "Cooling Matters  Benchmarking Large Language Models and Visi",
+      "date": "2026-05-07",
+      "md5": "9e40901179160bfadbf2cec515bc6bb0",
+      "size": 31930065
+    },
+    "81a956756a02b30eb2b011d6e48c2801": {
+      "title": "Enough Hot Air  The Role of Immersion Cooling",
+      "date": "2026-05-07",
+      "md5": "81a956756a02b30eb2b011d6e48c2801",
+      "size": 11421196
+    },
+    "3157c9cdb87b2dba1f9cb04f54df0544": {
+      "title": "Fast 3D Surrogate Modeling for Data Center Thermal Managemen",
+      "date": "2026-05-07",
+      "md5": "3157c9cdb87b2dba1f9cb04f54df0544",
+      "size": 1713106
+    },
+    "2fea8d8ba9d4a3ecc4a61a5e9e6fff29": {
+      "title": "Generative Design for Direct-to-Chip Liquid Cooling for Data",
+      "date": "2026-05-07",
+      "md5": "2fea8d8ba9d4a3ecc4a61a5e9e6fff29",
+      "size": 1528442
+    },
+    "8fe838b186adad506bda4df7137245d1": {
+      "title": "Glacierware  Hotspot-aware Microfluidic Cooling for High TDP",
+      "date": "2026-05-07",
+      "md5": "8fe838b186adad506bda4df7137245d1",
+      "size": 6334593
+    },
+    "e9d0fe70097e9fa239d990f9de4a63c4": {
+      "title": "Hierarchical Multi-Agent Framework for Carbon-Efficient Liqu",
+      "date": "2026-05-07",
+      "md5": "e9d0fe70097e9fa239d990f9de4a63c4",
+      "size": 905542
+    },
+    "02017061da04c0a847a986d4493ef9ae": {
+      "title": "LC-Opt  Benchmarking Reinforcement Learning and Agentic AI f",
+      "date": "2026-05-07",
+      "md5": "02017061da04c0a847a986d4493ef9ae",
+      "size": 3879591
+    },
+    "b045e814fcda6bf780d3dfd35cfee57e": {
+      "title": "Smart IoT-Based Leak Forecasting and Detection for Energy-Ef",
+      "date": "2026-05-07",
+      "md5": "b045e814fcda6bf780d3dfd35cfee57e",
+      "size": 584604
+    },
+    "8a585dad6d29ce873866e62b1e1bde6f": {
+      "title": "Sustainable Edge Computing  Challenges and Future Directions",
+      "date": "2026-05-07",
+      "md5": "8a585dad6d29ce873866e62b1e1bde6f",
+      "size": 3372021
+    },
+    "5345058ef93dff66eabc5bb7d4304242": {
+      "title": "Thermal Management in Large Data Centers  Security Threats a",
+      "date": "2026-05-07",
+      "md5": "5345058ef93dff66eabc5bb7d4304242",
+      "size": 603966
+    },
+    "a7ea245fa630867b08c43158987c3cae": {
+      "title": "Towards a Generalizable AI for Materials Discovery  Validati",
+      "date": "2026-05-07",
+      "md5": "a7ea245fa630867b08c43158987c3cae",
+      "size": 13880301
+    },
+    "6f73aa51c0bbbd571f2ffd128eb5d79c": {
+      "title": "Transforming Cooling Optimization for Green Data Center via ",
+      "date": "2026-05-07",
+      "md5": "6f73aa51c0bbbd571f2ffd128eb5d79c",
+      "size": 993201
+    },
+    "2605.06659v1": {
+      "title": "The Pulsar Radial Acceleration Relation",
+      "date": "2026-05-07",
+      "md5": "9e5fd8455662d5726ada61a836b38c6c",
+      "size": 619790,
+      "category": "astro-ph.GA"
+    },
+    "2605.06657v1": {
+      "title": "Significant heat transfer enhancement via polymer additives in two-dimensional sheared convection",
+      "date": "2026-05-07",
+      "md5": "7b3960c9cfc1515b48ea650a43f972ce",
+      "size": 8626321,
+      "category": "physics.flu-dyn"
+    },
+    "2605.06656v1": {
+      "title": "Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML",
+      "date": "2026-05-07",
+      "md5": "656d71b01d1f15e2aae5629847f67ce1",
+      "size": 1283398,
+      "category": "cs.LG"
+    },
+    "2605.06654v1": {
+      "title": "Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less",
+      "date": "2026-05-07",
+      "md5": "c883708244f7e49fbeb4d3171918ceec",
+      "size": 1686090,
+      "category": "cs.LG"
+    },
+    "2605.06645v1": {
+      "title": "Electrically controlled Heat Assisted Magnetic Recording in Intercalated 2D Magnets",
+      "date": "2026-05-07",
+      "md5": "d131e536aba998853be499dd039b9a4d",
+      "size": 1899532,
+      "category": "cond-mat.mes-hall"
+    },
+    "2605.06596v1": {
+      "title": "FedAttr: Towards Privacy-preserving Client-Level Attribution in Federated LLM Fine-tuning",
+      "date": "2026-05-07",
+      "md5": "d72d27a82acfa3fdf55ec929ada8fac3",
+      "size": 1122029,
+      "category": "cs.CR"
+    },
+    "2605.06565v1": {
+      "title": "Minimal Homotopies in Three Dimensions: A Cable System Approach",
+      "date": "2026-05-07",
+      "md5": "5251db7f27a694350c4a41f7b78b4652",
+      "size": 1682191,
+      "category": "math.GT"
+    },
+    "2605.06468v1": {
+      "title": "Equivalence of intrinsic and extrinsic area bounds for minimal surfaces",
+      "date": "2026-05-07",
+      "md5": "74b57473003f2235c5a67da5ac7c5318",
+      "size": 319029,
+      "category": "math.DG"
+    },
+    "2605.06396v1": {
+      "title": "Dynamical cooling driven by self-similar fronts in the 2D nonlinear Schr\u00f6dinger model",
+      "date": "2026-05-07",
+      "md5": "56951fda81467883f918ef686d4772a8",
+      "size": 2698036,
+      "category": "math-ph"
+    },
+    "2605.06666v1": {
+      "title": "The Kubo-Thermalization Correspondence",
+      "date": "2026-05-07",
+      "md5": "e884fb1fe2d51aad53cb8dee49dae5e3",
+      "size": 1275694,
+      "category": "cond-mat.quant-gas"
+    },
+    "2605.06651v1": {
+      "title": "AI Co-Mathematician: Accelerating Mathematicians with Agentic AI",
+      "date": "2026-05-07",
+      "md5": "b2482789d5b3962e89b9cfc0c116a197",
+      "size": 851001,
+      "category": "cs.AI"
+    },
+    "2605.06649v1": {
+      "title": "Colossal Magnetoresistance and Phonon Driven Exchange Dynamics in Eu$_5$Sn$_2$As$_6$",
+      "date": "2026-05-07",
+      "md5": "6603f42bedff9d66ac296065827b9115",
+      "size": 8838939,
+      "category": "cond-mat.mes-hall"
+    },
+    "2605.05987v1": {
+      "title": "Mobile Cold Energy Storage: Coupling Food Distribution and Energy Systems",
+      "date": "2026-05-07",
+      "md5": "ca70bc9226031932ec20abd3c5c41e54",
+      "size": 4196287,
+      "category": "physics.soc-ph"
+    },
+    "2605.05885v1": {
+      "title": "Unraveling the Origin of Ferrimagnetic Signatures in (Fe,Mn,Ga)2O3 Bixbyites: The Role of Structurally-Undetectable Spinel Impurities",
+      "date": "2026-05-07",
+      "md5": "2da2c8e28b0c1ba0ac589469cbf90809",
+      "size": 2193326,
+      "category": "cond-mat.mtrl-sci"
+    },
+    "2605.06667v1": {
+      "title": "ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation",
+      "date": "2026-05-07",
+      "md5": "1a7053feeb9c7a77c4971c3009a35128",
+      "size": 6340719,
+      "category": "cs.CV"
+    },
+    "2605.06613v1": {
+      "title": "The Phases of the Scalar S-Matrix Island",
+      "date": "2026-05-07",
+      "md5": "3bed13937f0a53b8f0a8f0f2e4486bc7",
+      "size": 6309710,
+      "category": "hep-th"
+    }
+  },
+  "last_scan": "2026-05-09T03:00:09.303933"
+}
